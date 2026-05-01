@@ -1,4 +1,4 @@
-<img src="./Logo.png" alt="TalentFlow Banner" width="200"/>
+![TalentFlow Banner](Logo.png "TalentFlow")
 
 # TalentFlow — Company Recruitment Management System
 
